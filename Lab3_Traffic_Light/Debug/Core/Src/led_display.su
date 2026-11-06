@@ -1,0 +1,7 @@
+led_display.c:39:6:clear_all_traffic_leds	8	static
+led_display.c:54:6:set_traffic_leds	16	static
+led_display.c:70:6:toggle_traffic_color_2hz	16	static
+led_display.c:115:6:display7SEG	24	static
+led_display.c:142:6:update7SEG	16	static
+led_display.c:177:6:updateClockBuffer	16	static
+led_display.c:187:6:led_7seg_scanning_run	8	static

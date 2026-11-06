@@ -1,0 +1,6 @@
+input_processing.c:42:13:increment_temp_value	4	static
+input_processing.c:54:13:synchronize_traffic_durations	24	static
+input_processing.c:92:13:fsm_button_state_update	16	static
+input_processing.c:141:16:check_and_clear_button_event	16	static
+input_processing.c:155:13:fsm_traffic_light_normal	8	static
+input_processing.c:249:6:fsm_for_input_processing	8	static
